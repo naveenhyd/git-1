@@ -1,8 +1,1 @@
-<?php
-
-$data = array(
-  "name"=>"naveen",
-  "mobile" => "1234567890"
-);
-
-echo json_encode($data);
+{"name":"naveen","mobile":"12345"}
